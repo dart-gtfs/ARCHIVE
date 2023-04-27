@@ -1,3 +1,0 @@
-who is making the decision on using SYS_ID or CI field from the service now team?
-I don't have a preference but just thought that if we use CI, then we could be orphaning some records when/if
-some CIs are renamed. 
