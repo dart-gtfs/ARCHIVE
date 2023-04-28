@@ -1,6 +1,6 @@
 # ARCHIVE
 
-Contains all Production publications of GTFS Static executions.
+Contains all Production publications of GTFS Static executions.  Latest production release: https://www.dart.org/gtfs something.
 
 Filename: Vbbb-176-179-yyyymmdd.ZIP  - bbb = Run ID (version id). ccc = Bus Sign ID. ddd = Rail Sign ID. yyyymmdd = Effective date of schedule.
 
