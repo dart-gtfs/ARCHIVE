@@ -1,6 +1,6 @@
 # ARCHIVE
 
-Dallas Area Rapit Transit (DART.org) - contains archived production publications of GTFS Static executions.
+Dallas Area Rapit Transit (DART.org) - contains archived production data publications of GTFS Static executions.
 
 Latest production release is available at: https://www.dart.org/gtfs something.
 
